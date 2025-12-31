@@ -11,6 +11,8 @@ India's "Atmanirbhar Bharat" (Self-Reliant India) initiative faces a strategic c
 This project moves beyond static trend analysis. We utilized **Machine Learning with Automated Hyperparameter Tuning** to analyze historical trade data (2018-2024) and forecast the demand curve for 2025-2026. The system automatically identifies whether demand is growing linearly, accelerating (curved), or stabilizing.
 
 ---
+## For Dashboard Check This Link please:-
+[Dashboard Github Link](https://github.com/ShlokStampwala/Mineral-Forecasting_Working_MVP.git)
 
 ## 🚀 Key Innovation: The "Champion Model" Selector
 Unlike traditional forecasting which uses a single method, our algorithm runs a **"Battle of Models"** for every mineral:
